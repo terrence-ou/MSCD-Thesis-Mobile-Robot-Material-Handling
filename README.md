@@ -1,1 +1,3 @@
-# MSCD_Thesis_Mobile_Robot_Material_Handling
+# Mobile Robot-Assisted Material Handling in Prefabricated Housing Factories
+
+This repository is in preparation.
